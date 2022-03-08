@@ -1,0 +1,32 @@
+[
+    {
+       "image":"https://shivamwdev.github.io/gym-mode/images/venom.webp",
+       "artistName":"Skyler grey",
+       "songName":"Last one standing",
+       "song":"https://shivamwdev.github.io/gym-mode/Gym mode/last one standing.mp3"
+    },
+    {
+       "image":"https://shivamwdev.github.io/gym-mode/images/neffex.webp",
+       "artistName":"Neffex",
+       "songName":"Crown",
+       "song":"https://shivamwdev.github.io/gym-mode/Gym mode/crown.mp3"
+    },
+    {
+       "image":"https://shivamwdev.github.io/gym-mode/images/natural.webp",
+       "artistName":"Imagine dragons",
+       "songName":"Natural",
+       "song":"https://shivamwdev.github.io/gym-mode/Gym mode/natural.mp3"
+    },
+    {
+       "image":"https://shivamwdev.github.io/gym-mode/images/rockstar.webp",
+       "artistName":"Post malone",
+       "songName":"Rockstar",
+       "song":"https://shivamwdev.github.io/gym-mode/Gym mode/rockstar.mp3"
+    },
+    {
+       "image":"https://shivamwdev.github.io/gym-mode/images/neffex.webp",
+       "artistName":"Neffex",
+       "songName":"All these thoughts",
+       "song":"https://shivamwdev.github.io/gym-mode/Gym mode/all these thoughts.mp3"
+    }
+ ]
